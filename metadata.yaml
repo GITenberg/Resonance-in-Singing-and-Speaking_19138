@@ -1,0 +1,27 @@
+_repo: Resonance-in-Singing-and-Speaking_19138
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fillebrown, Thomas
+    birthdate: 1836
+    deathdate: 1908
+    gutenberg_agent_id: '8499'
+    url: http://www.gutenberg.org/2009/agents/8499
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2006-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Voice culture'
+title: Resonance in Singing and Speaking
+url: http://www.gutenberg.org/ebooks/19138
